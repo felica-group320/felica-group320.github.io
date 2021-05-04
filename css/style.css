@@ -280,7 +280,7 @@ header > h1 > a {
   text-indent: 100%;
   white-space: nowrap;
   overflow: hidden;
-  background: url(/step/img/top-pc/logo-header02.png) no-repeat center center/7.9rem 28.2rem;
+  background: url(/img/top-pc/logo-header02.png) no-repeat center center/7.9rem 28.2rem;
   position: fixed;
   top: 0;
   z-index: 11;
@@ -290,15 +290,15 @@ header > h1 > a {
   header > h1 > a {
     width: 28rem;
     height: 10rem;
-    background: url(/step/img/top-sp/logo-header.png) no-repeat center center/21.5rem 6rem;
+    background: url(/img/top-sp/logo-header.png) no-repeat center center/21.5rem 6rem;
   }
 }
 header > h1.slide > a {
-  background: url(/step/img/menu-pc/logo.png) no-repeat center center/7.9rem 28.2rem;
+  background: url(/img/menu-pc/logo.png) no-repeat center center/7.9rem 28.2rem;
 }
 @media (max-width: 800px) {
   header > h1.slide > a {
-    background: url(/step/img/menu-sp/logo.png) no-repeat center center/21.5rem 6rem;
+    background: url(/img/menu-sp/logo.png) no-repeat center center/21.5rem 6rem;
   }
 }
 header > #g-nav-btn {
@@ -528,7 +528,7 @@ header.top-header > h1 > a::before {
   content: "";
   width: 36.5rem;
   height: 10.3rem;
-  background: url(/step/img/top-pc/logo-header.png) no-repeat center center/32.85rem 9.27rem;
+  background: url(/img/top-pc/logo-header.png) no-repeat center center/32.85rem 9.27rem;
   margin-bottom: 3rem;
   padding-bottom: 3rem;
 }
@@ -536,7 +536,7 @@ header.top-header > h1 > a::before {
   header.top-header > h1 > a::before {
     width: 28rem;
     height: 10rem;
-    background: url(/step/img/top-pc/logo-header.png) no-repeat center center/21.5rem 6rem;
+    background: url(/img/top-pc/logo-header.png) no-repeat center center/21.5rem 6rem;
     margin-bottom: 0;
     padding-bottom: 0;
   }
@@ -993,7 +993,7 @@ header.top-header > h1 > a > span:nth-of-type(2) {
 .top-about-us::after {
   display: block;
   content: "";
-  background: url(/step/img/mizutama.gif) repeat;
+  background: url(/img/mizutama.gif) repeat;
   width: 70.1rem;
   height: 99.7rem;
   position: absolute;
@@ -1192,7 +1192,7 @@ header.top-header > h1 > a > span:nth-of-type(2) {
   content: "";
   width: 142.9rem;
   height: 86.1rem;
-  background: url(/step/img/mizutama.gif) repeat;
+  background: url(/img/mizutama.gif) repeat;
   position: absolute;
   top: 8rem;
   bottom: 0;
@@ -1683,7 +1683,7 @@ footer > a > p .br-sp {
   content: "";
   width: 109rem;
   height: 26.5rem;
-  background: url(/step/img/mizutama.gif) repeat;
+  background: url(/img/mizutama.gif) repeat;
   position: absolute;
   top: 0;
   right: 3rem;
@@ -1699,7 +1699,7 @@ footer > a > p .br-sp {
   content: "";
   width: 109rem;
   height: 26.5rem;
-  background: url(/step/img/mizutama.gif) repeat;
+  background: url(/img/mizutama.gif) repeat;
   position: absolute;
   bottom: 0;
   left: 3rem;
@@ -2127,7 +2127,7 @@ footer > a > p .br-sp {
   display: block;
   width: 100%;
   height: 100%;
-  background: url(/step/img/mizutama.gif);
+  background: url(/img/mizutama.gif);
   position: absolute;
   top: 3rem;
   left: 3rem;
@@ -2237,7 +2237,7 @@ footer > a > p .br-sp {
   display: block;
   width: 100%;
   height: 100%;
-  background: url(/step/img/mizutama.gif);
+  background: url(/img/mizutama.gif);
   position: absolute;
   top: 3rem;
   left: 3rem;
