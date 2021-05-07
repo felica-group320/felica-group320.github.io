@@ -298,7 +298,7 @@ header > h1.slide > a {
 }
 @media (max-width: 800px) {
   header > h1.slide > a {
-    background: url(..//img/menu-sp/logo.png) no-repeat center center/21.5rem 6rem;
+    background: url(../img/menu-sp/logo.png) no-repeat center center/21.5rem 6rem;
   }
 }
 header > #g-nav-btn {
